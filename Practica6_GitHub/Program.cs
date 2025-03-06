@@ -10,6 +10,11 @@ namespace Practica6_GitHub
     {
         static void Main(string[] args)
         {
+            // Constantes 
+            //Variables
+            //Entrada
+            //Proceso
+            //Salida
         }
     }
 }
