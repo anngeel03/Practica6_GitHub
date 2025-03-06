@@ -15,6 +15,7 @@ namespace Practica6_GitHub
             //Entrada
             //Proceso
             //Salida
+            Console.WriteLine("Mi nombre es Angel");
         }
     }
 }
