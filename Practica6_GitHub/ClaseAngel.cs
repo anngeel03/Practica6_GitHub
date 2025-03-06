@@ -8,5 +8,6 @@ namespace Practica6_GitHub
 {
     internal class ClaseAngel
     {
+
     }
 }
