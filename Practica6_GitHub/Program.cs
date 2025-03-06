@@ -14,7 +14,7 @@ namespace Practica6_GitHub
             //Variables
             //Entrada
             //Proceso
-            //Salida
+            //Salida.
         }
     }
 }
